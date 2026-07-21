@@ -1,6 +1,6 @@
 <div align="center">
 
-# RaidenClicks
+# RaidenClicker
 
 **A auto clicker built with .NET 8 and WPF.**
 
